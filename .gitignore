@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DataFuzsion
+/DataFuzionApiTest/bin/Debug/net6.0
+/DataFuzionApiTest/obj
+/DataFuzionBusiness/bin/Debug/net6.0
+/DataFuzionBusiness/obj
+/DataFuzsionBusinessTest/bin/Debug/net6.0
+/DataFuzsionBusinessTest/obj
+/DataFuzsionConsole/bin/Debug/net6.0
+/DataFuzsionConsole/obj
+/Models/bin/Debug/net6.0
+/Models/obj

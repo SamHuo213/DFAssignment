@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataFuzionAPI", "DataFuzsion\DataFuzionAPI.csproj", "{5172079B-0120-4B19-AF3A-40A71DD35AD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30D9DE8E-D5F1-4D4F-916D-160BC0B9E668}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataFuzionBusiness", "DataFuzionBusiness\DataFuzionBusiness.csproj", "{7621145D-4658-49CB-816C-F9CA4F1D5DDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataFuzionModels", "Models\DataFuzionModels.csproj", "{ECD1D206-D0C6-47A8-B817-78DBE2EDBAC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataFuzionBusinessTest", "DataFuzsionBusinessTest\DataFuzionBusinessTest.csproj", "{DCEEADEE-030E-4E97-A1A5-DBB8E1F523E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataFuzionApiTest", "DataFuzionApiTest\DataFuzionApiTest.csproj", "{D7BE7F17-2020-42D1-867D-21371F26F052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFuzsionConsole", "DataFuzsionConsole\DataFuzsionConsole.csproj", "{628B40EA-E29B-4312-B53D-210CB6C13AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5172079B-0120-4B19-AF3A-40A71DD35AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5172079B-0120-4B19-AF3A-40A71DD35AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5172079B-0120-4B19-AF3A-40A71DD35AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5172079B-0120-4B19-AF3A-40A71DD35AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7621145D-4658-49CB-816C-F9CA4F1D5DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7621145D-4658-49CB-816C-F9CA4F1D5DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7621145D-4658-49CB-816C-F9CA4F1D5DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7621145D-4658-49CB-816C-F9CA4F1D5DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD1D206-D0C6-47A8-B817-78DBE2EDBAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD1D206-D0C6-47A8-B817-78DBE2EDBAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD1D206-D0C6-47A8-B817-78DBE2EDBAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD1D206-D0C6-47A8-B817-78DBE2EDBAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEEADEE-030E-4E97-A1A5-DBB8E1F523E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEEADEE-030E-4E97-A1A5-DBB8E1F523E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEEADEE-030E-4E97-A1A5-DBB8E1F523E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEEADEE-030E-4E97-A1A5-DBB8E1F523E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BE7F17-2020-42D1-867D-21371F26F052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BE7F17-2020-42D1-867D-21371F26F052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BE7F17-2020-42D1-867D-21371F26F052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BE7F17-2020-42D1-867D-21371F26F052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628B40EA-E29B-4312-B53D-210CB6C13AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628B40EA-E29B-4312-B53D-210CB6C13AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628B40EA-E29B-4312-B53D-210CB6C13AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628B40EA-E29B-4312-B53D-210CB6C13AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12760577-CD16-4FE9-841E-8ADA98955E1B}
+	EndGlobalSection
+EndGlobal
